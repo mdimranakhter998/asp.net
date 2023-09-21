@@ -1,0 +1,14 @@
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.deps.json
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.runtimeconfig.json
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.csproj.AssemblyReference.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.AssemblyInfoInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.AssemblyInfo.cs
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\refint\Ecommerce.DataAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\Ecommerce.DataAccessLayer.genruntimeconfig.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Debug\net7.0\ref\Ecommerce.DataAccessLayer.dll

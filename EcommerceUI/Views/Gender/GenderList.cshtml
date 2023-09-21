@@ -1,0 +1,55 @@
+﻿@{
+
+    ViewData["Title"] = "Gender List";
+
+}
+@model List<EcommerceUI.Admin.Models.User.GenderModel>;
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-end mb-3">
+        <a href="/add/" class="btn btn-dark" role="button" id="jdd">Add Gender</a>
+    </div>
+    <h5>Gerder List</h5>
+    <hr />
+    <table class="table table-hover" id="genderList">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Gender</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+        <tbody class="table-group-divider">
+            @{
+                    foreach(var gender in Model)
+                {
+                    <tr>
+                    <td>@gender.GenderId</td>
+                    <td>@gender.GenderType</td>
+                        <td><a href="/edit/@gender.GenderId" role="button" class="btn btn-success">edit</a></td>
+                    </tr>
+                }
+            }
+             
+
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script src="~/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(() => {
+            $("#genderList").DataTable()                    
+                     
+                        
+               
+            
+
+
+           
+        })
+
+    </script>
+
+}
