@@ -1,50 +1,47 @@
-﻿using Ecommerce.DataAccessLayer.Models;
-using EcommerceUI.Admin.Models.Common;
-using EcommerceUI.Admin.Models.User;
+﻿using Ecommerce.BusinessAccessLayer.Repository.Admin.User;
+using Ecommerce.ModelAccessLayer.Admin.Models.User;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging.Console;
-using System.Runtime.CompilerServices;
 
 namespace EcommerceUI.Admin.Controllers
 {
-    
-	public class GenderController : Controller
+    [Route("[controller]")]
+    public class GenderController : Controller
 	{
-        private readonly Context _context;
+        private readonly IGender _gender;
       
-        public GenderController(Context Context)
+        public GenderController(IGender gender)
         {
-            _context = Context;
+            _gender= gender;
          
         }
 
-        [Route("add")]
+        [Route("add",Name ="AddGender")]
         [HttpGet]
 		public async Task<IActionResult> AddGender()
-		{
-
+		{        
 
             return View();
-
         }
-        [Route("add")]
+        [Route("add",Name ="AddGender")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> AddGender(string name)
-        { 
-            if (ModelState.IsValid)
-            {
+        public async Task<IActionResult> AddGender(GenderModel model)
+        {           
+                if (ModelState.IsValid)
+                {
+                    int addGender = await _gender.AddGenderAsync(model);
+                    if (addGender > 0)
+                    {
+					    ModelState.Clear();
+					    ViewData["Message"] = "you have added Successfully";                       
+                        return RedirectToRoute("list");
+                    }
 
-                //TblGender entity = new TblGender();
-                //entity.GenderType = model.GenderType;
-                //_context.Add(entity);
-                //int a = await _context.SaveChangesAsync();
-                //Console.WriteLine(a);
-                return View();
-            }
-            return RedirectToRoute("list");
-
+                }
+          
+            
+           return View(ModelState);           
+           
         }
         //[Route("Gender/List")]
         //public async Task<IActionResult> List()
@@ -63,43 +60,62 @@ namespace EcommerceUI.Admin.Controllers
           
         //    return new JsonResult(genders);
         //}
-        [Route("list")]
+        [Route("list",Name ="GenderList")]
         public async Task<IActionResult> GenderList()
         {
-            var genderLists = await _context.TblGenders.ToListAsync();
-            List<GenderModel> genders = new List<GenderModel>();
-            foreach (var gender in genderLists)
+          var genders= await _gender.GetAllGenderAsync();
+            if (genders == null)
             {
-                genders.Add(new GenderModel()
-                {
-                    GenderId = gender.GenderId,
-                    GenderType = gender.GenderType
-                });
-
+                ViewData["Message"] = "No Data Is Found";
+                return View();
             }
-
-
             return View(genders);
         }
-        [Route("edit/{id}")]
+        [Route("edit/{id}",Name ="EditGenderById")]
         public async Task<IActionResult> EditGender(int id)
         {
-            try
+          var  gender=await _gender.GetGenderByIdAsync(id);
+            if (gender == null)
             {
-                var gender = await _context.TblGenders.SingleOrDefaultAsync(e => e.GenderId == id);
-               var genderModel= new GenderModel()
-               {
-                   GenderId = gender.GenderId,
-                   GenderType = gender.GenderType
-               };
-                return View(genderModel);
+                return NotFound();
+               
             }
-            catch
+            return View(gender);
+        }
+
+        [Route("edit",Name ="EditGender")]       
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult>EditGender(GenderModel model)
+        {          
+                if (ModelState.IsValid)
+                {
+                    int a = await _gender.EditGenderAsync(model);
+                    if (a > 0)
+                    {
+                        ViewData["Message"] = "you have added Successfully";
+                        ModelState.Clear();
+                        return Redirect("list");
+                        
+                    }
+                }       
+           
+            return View(ModelState);       
+
+        }
+
+        [Route("delete/{Id}",Name ="DeleteGender")]
+        
+        public async Task<IActionResult> DeleteGender(int Id)
+        {
+            int deleteGenderById = await _gender.DeleteGenderAsync(Id);          
+            if (deleteGenderById==0)
             {
-                return RedirectToAction("/list/");
+                return NotFound();
+               
             }
-            
-            
+            ViewData["Message"] = "You Have deleted Successfully";
+            return Redirect("list");
         }
     }
 }

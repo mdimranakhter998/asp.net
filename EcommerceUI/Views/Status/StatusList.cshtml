@@ -1,0 +1,51 @@
+﻿@{
+
+    ViewData["Title"] = "Status List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<Ecommerce.ModelAccessLayer.Admin.Models.Product.StatusModel>;
+
+<div class="container pt-5">
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-route="AddStatus" class="btn btn-dark" >Add Status</a>
+    </div>
+    <h5>Status List</h5>
+    <hr />
+    <table class="table table-hover" id="statusList">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Status</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+        <tbody class="table-group-divider">
+            @{
+                foreach (var status in Model)
+                {
+                    <tr>
+                        <td>@status.StatusId</td>
+                        <td>@status.Status</td>
+                        <td>
+                            <a asp-route="EditStatusById" asp-route-Id="@status.StatusId" role="button" class="btn btn-success">Edit</a>
+                            <a asp-route="DeleteStatus" asp-route-Id="@status.StatusId" role="button" class="btn btn-danger">Delete</a>
+                        </td>
+
+                    </tr>
+                }
+            }
+
+
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script src="~/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(() => {
+            $("#statusList").DataTable()
+        })
+    </script>
+
+}

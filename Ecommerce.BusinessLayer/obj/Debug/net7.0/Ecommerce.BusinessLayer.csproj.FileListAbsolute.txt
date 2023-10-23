@@ -1,0 +1,17 @@
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.csproj.AssemblyReference.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.AssemblyInfoInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.AssemblyInfo.cs
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.BusinessLayer.deps.json
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.BusinessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.BusinessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.ModelLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.ModelLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.csproj.CopyComplete
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\refint\Ecommerce.BusinessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\ref\Ecommerce.BusinessLayer.dll

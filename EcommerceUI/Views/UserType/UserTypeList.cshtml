@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "UserTypeList";
+}
+
+@model List<Ecommerce.ModelAccessLayer.Admin.Models.User.UserTypeModel>;
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-route="AddUserType" class="btn btn-dark" role="button">Add UserType</a>
+    </div>
+    <h5>UserType List</h5>
+    <hr />
+    <table class="table table-hover" id="userTypeList">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">UserType</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+        <tbody class="table-group-divider">
+            @{
+                foreach (var userType in Model)
+                {
+                    <tr>
+                        <td>@userType.UserTypeId</td>
+                        <td>@userType.UserType</td>
+                        <td>
+                            <a asp-route="EditUserTypeById" asp-route-Id="@userType.UserTypeId" role="button" class="btn btn-success btn-sm">Edit</a>
+                            <a asp-route="DeleteUserType" asp-route-Id="@userType.UserTypeId" role="button" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+
+                    </tr>
+                }
+            }
+
+
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script src="~/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(() => {
+            $("#userTypeList").DataTable()
+        })
+    </script>
+
+}

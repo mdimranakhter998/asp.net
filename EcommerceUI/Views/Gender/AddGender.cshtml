@@ -1,13 +1,14 @@
 ﻿@{
 
     ViewData["Title"] = "Add Gender";
-    
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-@model EcommerceUI.Admin.Models.User.GenderModel
+@model Ecommerce.ModelAccessLayer.Admin.Models.User.GenderModel;
 <section>
-    <div class="container col-sm-10 mt-5">
+    <div class="container  mt-5">
+      
         <div class="d-flex justify-content-end mb-3">
-            <a href="/list/" class="btn btn-dark" role="button">Back To List</a>
+            <a asp-route="GenderList" class="btn btn-dark btn-sm" role="button">Back To List</a>
         </div>
         <div class="mb-3">
             <h5>Add Gender</h5>
@@ -18,27 +19,19 @@
             @Html.AntiForgeryToken()
             <div class="row mb-4">
                 <div class="col-3 text-center">
-                    <label  class="form-label fw-bold">Gender <span class="text-danger">*</span> <span>:</span></label>
+                    <label asp-for="GenderType"  class="form-label fw-bold">Gender <span class="text-danger">*</span> <span>:</span></label>
                 </div>
                 <div class="col-6">
-                    <input id="gender" name="gender" type="text" class="form-control">
-                  
+                    <input asp-for="GenderType" class="form-control"> 
+                    <span asp-validation-for="GenderType"></span>
                 </div>
 
             </div>
             <div class="row mb-3 d-flex justify-content-center">
                 <div class="col-3 col-md-2">
-                    <button type="submit"   class="btn btn-success mb-3 col-12">Add</button>                  
-                </div>
-              
+                    <button type="submit"class="btn btn-success btn-sm mb-3 col-12">Add</button>                  
+                </div>              
             </div>
         </form>
-    </div>
-    @section Scripts {
-        <script src="~/js/Validators/Admin/User/GenderValidator.js"></script>
-      
-    }
-    
-
-    
+    </div>    
 </section>

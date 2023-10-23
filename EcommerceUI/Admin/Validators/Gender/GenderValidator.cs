@@ -1,4 +1,5 @@
-﻿using EcommerceUI.Admin.Models.User;
+﻿
+using Ecommerce.ModelAccessLayer.Admin.Models.User;
 using FluentValidation;
 
 namespace EcommerceUI.Admin.Validators.Gender

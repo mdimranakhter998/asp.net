@@ -11,6 +11,8 @@ public partial class TblStatus
 
     public virtual ICollection<TblBankAccount> TblBankAccounts { get; set; } = new List<TblBankAccount>();
 
+    public virtual ICollection<TblBrand> TblBrands { get; set; } = new List<TblBrand>();
+
     public virtual ICollection<TblCategory> TblCategories { get; set; } = new List<TblCategory>();
 
     public virtual ICollection<TblColorType> TblColorTypes { get; set; } = new List<TblColorType>();

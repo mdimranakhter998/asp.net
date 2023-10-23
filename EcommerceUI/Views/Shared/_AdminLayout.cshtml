@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+       
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+       <link ref="stylesheet" href="~/bootstrap-icons/font/bootstrap-icons.min.css" />
+       <link ref="stylesheet" href="~/bootstrap-icons/font/bootstrap-icons.css" asp-append-version="true" />
+      <link rel="stylesheet" href="~/css/jquery.dataTables.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/admin/style.css" asp-append-version="true" />
+        
+        <title>@ViewData["Title"]</title>
+    </head>
+    <body>
+    <partial name="~/Admin/Views/Shared/Common/_Header.cshtml">
+    <div class="row">
+        <div class="col-sm-3">
+                <partial name="~/Admin/Views/Shared/Common/_sidebar.cshtml" />
+        </div>
+            <div class="col-sm-8">
+
+                <main role="main">
+                    @RenderBody()
+                </main>
+            </div>
+    </div>
+   
+          <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+            <script src="~/lib/jquery/dist/jquery.min.js"></script>
+            <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+             <script src="~/js/Admin/site.js"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+
+</html>
+

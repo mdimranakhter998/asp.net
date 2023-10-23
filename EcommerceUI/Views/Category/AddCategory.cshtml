@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "AddCategory";
+}
+@model Ecommerce.ModelAccessLayer.Admin.Models.Product.CategoryModel;
+<section>
+    <div class="container col-sm-7 mt-5">
+
+        <div class="d-flex justify-content-end mb-3">
+            <a href="/list/" class="btn btn-dark" role="button">Back To List</a>
+        </div>
+        <div class="mb-3">
+            <h5>Add Category</h5>
+        </div>
+
+        <hr />
+        <form class="pt-3" id="add-gender" asp-route="/add/" method="post">
+            @Html.AntiForgeryToken()
+            <div class="row mb-4">
+                <div class="col-3 text-center">
+                    <label asp-for="CategoryTitle" class="form-label fw-bold">Category Title <span class="text-danger">*</span> <span>:</span></label>
+                </div>
+                <div class="col-6">
+                    <input asp-for="CategoryTitle" class="form-control">
+                    <span asp-validation-for="CategoryTitle"></span>
+                </div>
+            </div>
+            <div class="row mb-4">
+                <div class="col-3 text-center">
+                    <label asp-for="Status" class="form-label fw-bold">Status <span class="text-danger">*</span> <span>:</span></label>
+                </div>
+                <div class="col-6">
+                    <select class="form-select" asp-for="StatusId" asp-items=@Model.Status></select>
+
+
+
+                </div>
+            </div>
+            <div class="row mb-3 d-flex justify-content-center">
+                <div class="col-3 col-md-2">
+                    <button type="submit" class="btn btn-success mb-3 col-12">Add</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>

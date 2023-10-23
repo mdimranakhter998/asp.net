@@ -22,9 +22,10 @@
             $.ajax({
                 url: "/add",
                 type: "post",
+                contentType: 'application/json',
+                dataType: 'json',
               
-              
-                data:data,
+                data: JSON.stringify(data),
                 success: function (response) {
                     console.log(response)
                 }

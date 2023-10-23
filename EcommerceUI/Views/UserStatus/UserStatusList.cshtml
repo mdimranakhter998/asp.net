@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "UserStatusList";
+}
+@model List<Ecommerce.ModelAccessLayer.Admin.Models.User.UserStatusModel>;
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-route="AddUserStatus" class="btn btn-dark" role="button">Add UserStatus</a>
+    </div>
+    <h5>UserStatus List</h5>
+    <hr />
+    <table class="table table-hover" id="userStatusList">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">UserStatus</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+        <tbody class="table-group-divider">
+            @{
+                foreach (var userStatus in Model)
+                {
+                    <tr>
+                        <td>@userStatus.UserStatusId</td>
+                        <td>@userStatus.UserStatus</td>
+                        <td>
+                            <a asp-route="EditUserStatusById" asp-route-Id="@userStatus.UserStatusId" role="button" class="btn btn-success btn-sm">Edit</a>
+                            <a asp-route="DeleteUserStatus" asp-route-Id="@userStatus.UserStatusId" role="button" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+
+                    </tr>
+                }
+            }
+
+
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script src="~/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(() => {
+            $("#userStatusList").DataTable()
+        })
+    </script>
+
+}

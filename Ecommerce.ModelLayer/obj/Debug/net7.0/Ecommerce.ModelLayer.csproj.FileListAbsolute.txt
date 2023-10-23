@@ -1,0 +1,12 @@
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.csproj.AssemblyReference.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.AssemblyInfoInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.AssemblyInfo.cs
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.csproj.CoreCompileInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\bin\Debug\net7.0\Ecommerce.ModelLayer.deps.json
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\bin\Debug\net7.0\Ecommerce.ModelLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\bin\Debug\net7.0\Ecommerce.ModelLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\refint\Ecommerce.ModelLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\Ecommerce.ModelLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.ModelLayer\obj\Debug\net7.0\ref\Ecommerce.ModelLayer.dll

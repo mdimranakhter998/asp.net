@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\imran Project\Asp.net project\Ecommerce\EcommerceUI
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Admin/Views/Product/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Admin/Views/Shared/Common/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5cVmlld3NcU2hhcmVkXENvbW1vblxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Admin/Views/Shared/Common/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5cVmlld3NcU2hhcmVkXENvbW1vblxfU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/AddressType/AddAddressType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1R5cGVcQWRkQWRkcmVzc1R5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/AddressType/AddressTypeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1R5cGVcQWRkcmVzc1R5cGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/AddressType/EditAddressType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1R5cGVcRWRpdEFkZHJlc3NUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Gender/AddGender.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXEFkZEdlbmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,12 +76,60 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Shared/Common/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1vblxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Shared/Common/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1vblxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Status/AddStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEFkZFN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Status/EditStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEVkaXRTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/Status/StatusList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXFN0YXR1c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/UserStatus/AddUserStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXR1c1xBZGRVc2VyU3RhdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/UserStatus/EditUserStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXR1c1xFZGl0VXNlclN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/UserStatus/UserStatusList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXR1c1xVc2VyU3RhdHVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/UserType/AddUserType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclR5cGVcQWRkVXNlclR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/UserType/EditUserType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclR5cGVcRWRpdFVzZXJUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/UserType/UserTypeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclR5cGVcVXNlclR5cGVMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/imran Project/Asp.net project/Ecommerce/EcommerceUI/Views/_ViewImports.cshtml]

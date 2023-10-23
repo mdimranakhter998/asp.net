@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "AddressTypeList";
+}
+
+@model List<Ecommerce.ModelAccessLayer.Admin.Models.User.AddressTypeModel>;
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-route="AddAddressType" class="btn btn-dark" role="button" id="jdd">Add AddressType</a>
+    </div>
+    <h5>Address Type List</h5>
+    <hr />
+    <table class="table table-hover" id="addressTypeList">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Address Type</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+        <tbody class="table-group-divider">
+            @{
+                foreach (var addressType in Model)
+                {
+                    <tr>
+                        <td>@addressType.AddressTypeId</td>
+                        <td>@addressType.AddressType</td>
+                        <td>
+                            <a asp-route="EditAddressTypeById" asp-route-Id="@addressType.AddressTypeId" role="button" class="btn btn-success btn-sm">Edit</a>
+                            <a asp-route="DeleteAddressType" asp-route-Id="@addressType.AddressTypeId" role="button" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+
+                    </tr>
+                }
+            }
+
+
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script src="~/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(() => {
+            $("#addressTypeList").DataTable()
+
+        })
+
+    </script>
+
+}
+

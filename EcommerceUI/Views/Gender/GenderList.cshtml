@@ -3,11 +3,11 @@
     ViewData["Title"] = "Gender List";
 
 }
-@model List<EcommerceUI.Admin.Models.User.GenderModel>;
+@model List<Ecommerce.ModelAccessLayer.Admin.Models.User.GenderModel>;
 
 <div class="container mt-5">
     <div class="d-flex justify-content-end mb-3">
-        <a href="/add/" class="btn btn-dark" role="button" id="jdd">Add Gender</a>
+        <a asp-route="AddGender" class="btn btn-dark btn-sm" role="button" id="jdd">Add Gender</a>
     </div>
     <h5>Gerder List</h5>
     <hr />
@@ -22,16 +22,20 @@
         </thead>
         <tbody class="table-group-divider">
             @{
-                    foreach(var gender in Model)
+                foreach (var gender in Model)
                 {
                     <tr>
-                    <td>@gender.GenderId</td>
-                    <td>@gender.GenderType</td>
-                        <td><a href="/edit/@gender.GenderId" role="button" class="btn btn-success">edit</a></td>
+                        <td>@gender.GenderId</td>
+                        <td>@gender.GenderType</td>
+                        <td>
+                        <a asp-route="EditGenderById"  asp-route-Id="@gender.GenderId" role="button" class="btn btn-success btn-sm">Edit</a>
+                            <a asp-route="DeleteGender" asp-route-Id="@gender.GenderId" role="button" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                       
                     </tr>
                 }
             }
-             
+
 
         </tbody>
     </table>
@@ -40,16 +44,8 @@
     <script src="~/js/jquery.dataTables.min.js"></script>
     <script>
         $(document).ready(() => {
-            $("#genderList").DataTable()                    
-                     
-                        
-               
-            
-
-
-           
+            $("#genderList").DataTable()
         })
-
     </script>
 
 }

@@ -1,10 +1,14 @@
-using Ecommerce.DataAccessLayer.Models;
-using EcommerceUI.Admin.Models.User;
+using Ecommerce.BusinessAccessLayer.Repository.Admin.Product;
+using Ecommerce.BusinessAccessLayer.Repository.Admin.User;
+using Ecommerce.BusinessAccessLayer.Repository.Services.Admin.Product;
+using Ecommerce.BusinessAccessLayer.Repository.Services.Admin.User;
+using Ecommerce.DataAccessLayer;
+
+
 using EcommerceUI.Admin.Validators.Gender;
 using FluentValidation.AspNetCore;
-
+using Microsoft.DotNet.Scaffolding.Shared.ProjectModel;
 using Microsoft.EntityFrameworkCore;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Model;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,12 +17,25 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 
+
 //Connection with Sql Server
 
 builder.Services.AddDbContext<Context>(options =>
 {
+    
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
+
+//Dependency Injection
+builder.Services.AddScoped<IStatus, Status>();
+builder.Services.AddScoped<ICategory, Category>();
+builder.Services.AddScoped<IGender, Gender>();
+builder.Services.AddScoped<IUserType, UserType>();
+builder.Services.AddScoped<IUserStatus,UserStatus>();
+builder.Services.AddScoped<IAddressType, AddressType>();
+
+
+
 
 
 
@@ -44,10 +61,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-app.MapControllers();
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Home}/{action=Index}/{id?}");
-    
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
 
 app.Run();

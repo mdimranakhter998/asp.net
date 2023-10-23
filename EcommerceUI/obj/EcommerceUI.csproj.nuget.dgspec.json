@@ -4,6 +4,68 @@
     "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\EcommerceUI.csproj": {}
   },
   "projects": {
+    "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.BusinessLayer\\Ecommerce.BusinessAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.BusinessLayer\\Ecommerce.BusinessAccessLayer.csproj",
+        "projectName": "Ecommerce.BusinessAccessLayer",
+        "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.BusinessLayer\\Ecommerce.BusinessAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
+        "outputPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.DataAccessLayer\\Ecommerce.DataAccessLayer.csproj": {
+                "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.DataAccessLayer\\Ecommerce.DataAccessLayer.csproj"
+              },
+              "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj": {
+                "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.DataAccessLayer\\Ecommerce.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -75,6 +137,74 @@
         }
       }
     },
+    "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj",
+        "projectName": "Ecommerce.ModelAccessLayer",
+        "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
+        "outputPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\EcommerceUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -99,8 +229,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.BusinessLayer\\Ecommerce.BusinessAccessLayer.csproj": {
+                "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.BusinessLayer\\Ecommerce.BusinessAccessLayer.csproj"
+              },
               "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.DataAccessLayer\\Ecommerce.DataAccessLayer.csproj": {
                 "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.DataAccessLayer\\Ecommerce.DataAccessLayer.csproj"
+              },
+              "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj": {
+                "projectPath": "D:\\imran Project\\Asp.net project\\Ecommerce\\Ecommerce.ModelLayer\\Ecommerce.ModelAccessLayer.csproj"
               }
             }
           }
@@ -123,11 +259,11 @@
               "target": "Package",
               "version": "[11.3.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Edit Status";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@model Ecommerce.ModelAccessLayer.Admin.Models.Product.StatusModel;
+<section>
+    <div class="container  mt-5">
+        <div class="d-flex justify-content-end mb-3">
+            <a asp-route="StatusList" class="btn btn-dark">Back To List</a>
+        </div>
+        <div class="mb-3">
+            <h5>Edit Status</h5>
+        </div>
+
+        <hr />
+        <form class="pt-3" asp-route="EditStatus" method="post">
+            @Html.AntiForgeryToken()
+            <div class="row mb-4">
+                <div class="col-3 text-center">
+                    <label asp-for="Status" class="form-label fw-bold">Status <span class="text-danger">*</span> <span>:</span></label>
+                </div>
+                <div class="col-6">
+                    <input asp-for="StatusId" class="form-control"  type="hidden"/>
+                    <input asp-for="Status" class="form-control">
+                    <span asp-validation-for="Status"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3 d-flex justify-content-center">
+                <div class="col-3 col-md-2">
+                    <button type="submit" class="btn btn-success mb-3 col-12">Add</button>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</section>

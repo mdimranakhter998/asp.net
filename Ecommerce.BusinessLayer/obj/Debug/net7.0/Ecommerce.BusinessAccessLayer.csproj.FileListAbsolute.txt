@@ -1,0 +1,17 @@
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.BusinessAccessLayer.deps.json
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.BusinessAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.BusinessAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.ModelAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.DataAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\bin\Debug\net7.0\Ecommerce.ModelAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.AssemblyInfo.cs
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.csproj.CopyComplete
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\refint\Ecommerce.BusinessAccessLayer.dll
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\Ecommerce.BusinessAccessLayer.pdb
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.BusinessLayer\obj\Debug\net7.0\ref\Ecommerce.BusinessAccessLayer.dll

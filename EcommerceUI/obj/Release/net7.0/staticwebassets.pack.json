@@ -1,0 +1,661 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\EcommerceUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\amarican_express.png",
+      "PackagePath": "staticwebassets\\assets\\images\\amarican_express.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner5.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\banner6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner6.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cart_thamb1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart_thamb1.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cart_thamb2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart_thamb2.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cl_logo1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cl_logo1.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cl_logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cl_logo2.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cl_logo3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cl_logo3.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cl_logo4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cl_logo4.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cl_logo5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cl_logo5.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\cl_logo6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cl_logo6.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\discover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discover.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\eng.png",
+      "PackagePath": "staticwebassets\\assets\\images\\eng.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\fn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fn.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img1.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img2.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img3.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img4.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img5.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img6.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img7.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\insta_img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\insta_img8.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\logo_dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_dark.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\logo_light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_light.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\master_card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\master_card.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\menu_banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu_banner1.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\menu_banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu_banner2.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\menu_banner4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu_banner4.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\menu_banner5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu_banner5.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\paypal.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\popup_img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popup_img.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img1.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img10.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img11.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img12.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img13.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img14.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img15.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img2.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img3.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img4.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img5.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img6.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img7.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img8.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\product_img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product_img9.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\shop_banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop_banner2.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\shop_banner_img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop_banner_img1.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\shop_banner_img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop_banner_img2.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\shop_banner_img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop_banner_img3.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\shop_banner_img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop_banner_img4.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\shop_banner_img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop_banner_img5.jpg"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\us.png",
+      "PackagePath": "staticwebassets\\assets\\images\\us.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\assets\\images\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\visa.png"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\admin\\style.css",
+      "PackagePath": "staticwebassets\\css\\admin\\style.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\Linearicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons.woff"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\Admin\\site.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\site.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\Validators\\Admin\\User\\GenderValidator.js",
+      "PackagePath": "staticwebassets\\js\\Validators\\Admin\\User\\GenderValidator.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\jquery.dd.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dd.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\js\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\parallax.js",
+      "PackagePath": "staticwebassets\\js\\parallax.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\owlcarousel\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\owlcarousel\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\css\\owl.theme.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\owlcarousel\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\imran Project\\Asp.net project\\Ecommerce\\EcommerceUI\\wwwroot\\owlcarousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\owlcarousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.EcommerceUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.EcommerceUI.props",
+      "PackagePath": "build\\EcommerceUI.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceUI.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceUI.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.EcommerceUI.props",
+      "PackagePath": "buildTransitive\\EcommerceUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

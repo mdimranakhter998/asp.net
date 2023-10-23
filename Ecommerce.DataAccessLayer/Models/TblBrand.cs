@@ -11,5 +11,7 @@ public partial class TblBrand
 
     public int StatusId { get; set; }
 
+    public virtual TblStatus Status { get; set; } = null!;
+
     public virtual ICollection<TblProductHeader> TblProductHeaders { get; set; } = new List<TblProductHeader>();
 }

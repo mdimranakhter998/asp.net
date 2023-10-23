@@ -1,0 +1,5 @@
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Release\net7.0\Ecommerce.DataAccessLayer.csproj.AssemblyReference.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Release\net7.0\Ecommerce.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Release\net7.0\Ecommerce.DataAccessLayer.AssemblyInfoInputs.cache
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Release\net7.0\Ecommerce.DataAccessLayer.AssemblyInfo.cs
+D:\imran Project\Asp.net project\Ecommerce\Ecommerce.DataAccessLayer\obj\Release\net7.0\Ecommerce.DataAccessLayer.csproj.CoreCompileInputs.cache
